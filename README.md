@@ -12,8 +12,9 @@ Material:
     3. POLY  Regression
     https://colab.research.google.com/drive/19r96EfLFmIAPya7ZTNaYJ6-qSDvRBST4#scrollTo=j6tyRYL7yJ4Q
 ==================================
-https://github.com/ksarvakar/DSML-2023/blob/main/LSVM.pdf
+SVM
 
+https://github.com/ksarvakar/DSML-2023/blob/main/LSVM.pdf
 
 Material: PPT- https://docs.google.com/presentation/d/1hwZnXLxUVOoVAK1PB22h70XQab36KTZa/edit#slide=id.p53
 Online Apriori- https://athena.ecs.csus.edu/~mei/associationcw/Algorithms/Apriori.html
@@ -41,6 +42,7 @@ Assignment Links
 
 
 =================================================================================================================
+
 Case Study: 
 1. Auto-mobile price prediction using AZURE-ML
     https://studio.azureml.net/
@@ -56,6 +58,7 @@ Case Study:
     Document: 
     https://learn.microsoft.com/en-us/previous-versions/azure/machine-learning/classic/create-experiment
 
+==============================================
 
 Practical: 
 
