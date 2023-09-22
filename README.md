@@ -20,11 +20,24 @@ Online Apriori- https://athena.ecs.csus.edu/~mei/associationcw/Algorithms/Aprior
 
 LIFT METHOD
 https://www.youtube.com/watch?v=9_kT7GaQwAc
+================================================
 
 Assignment Links
 
-SVM: 
-https://docs.google.com/document/d/1iJETP5U2ggAELFtPg1GB32xVISbuDoKkbBBC1ceSPcc/edit
+    Assignment -1.1  label encoding, One Hot Encoder 
+    https://docs.google.com/document/d/1tkyWY7QhVFYPAEBnxd31pXYZJeo6pnBW/edit
+    
+    Assignment-2 Data Pre-processing 
+    https://docs.google.com/document/d/1Xay7Gv7XeMq0MwsvIwpOL2tWf8Pfy0Xf/edit
+    
+    Assignment 3 Normalization
+    https://docs.google.com/document/d/15XWx3v5kgI_18cfKVJZc7UzowotK-gSm/edit
+    
+    Assignment - 4 Association rule
+    https://docs.google.com/document/d/19fTivylDJcJRAYUrds1jv0txxT69AFbA/edit
+    
+    SVM: 
+    https://docs.google.com/document/d/1iJETP5U2ggAELFtPg1GB32xVISbuDoKkbBBC1ceSPcc/edit
 
 
 =================================================================================================================
