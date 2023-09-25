@@ -14,6 +14,7 @@ Material:
 ==================================
 
 SVM:
+
     1. L-SVM- https://github.com/ksarvakar/DSML-2023/blob/main/LSVM.pdf
     2. NL-SVM- https://github.com/ksarvakar/DSML-2023/blob/main/NL-SVM.pdf
 
