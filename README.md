@@ -71,13 +71,13 @@ Market Basket Analysis (Apriori) in Python
 
    1. https://www.kaggle.com/code/ksarvakar/notebook04ddbfaaa6
    2. https://www.kaggle.com/code/ksarvakar/how-to-solve-the-apriori-algorithm-in-a-simple-way
-      3. https://colab.research.google.com/drive/19oz_jjjAS3rFffx3uNZCwzFP_Gy3AF3s#scrollTo=bw35MisP_nit
+   3. https://colab.research.google.com/drive/19oz_jjjAS3rFffx3uNZCwzFP_Gy3AF3s#scrollTo=bw35MisP_nit
 
 SVM
-    https://www.kaggle.com/code/ksarvakar/support-vector-machines-predicting-heart-disease
+    1. https://www.kaggle.com/code/ksarvakar/support-vector-machines-predicting-heart-disease
 
 KNN
-    https://www.kaggle.com/code/ksarvakar/predicting-heart-disease-with-knn-and-svm
+    1. https://www.kaggle.com/code/ksarvakar/predicting-heart-disease-with-knn-and-svm
 
 
     =====================================
