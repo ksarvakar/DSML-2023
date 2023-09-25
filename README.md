@@ -63,9 +63,10 @@ Case Study:
 Practical: 
 
 Market Basket Analysis (Apriori) in Python
-    https://www.kaggle.com/code/ksarvakar/notebook04ddbfaaa6
-    https://www.kaggle.com/code/ksarvakar/how-to-solve-the-apriori-algorithm-in-a-simple-way
-    https://colab.research.google.com/drive/19oz_jjjAS3rFffx3uNZCwzFP_Gy3AF3s#scrollTo=bw35MisP_nit
+
+   1. https://www.kaggle.com/code/ksarvakar/notebook04ddbfaaa6
+   2. https://www.kaggle.com/code/ksarvakar/how-to-solve-the-apriori-algorithm-in-a-simple-way
+      3. https://colab.research.google.com/drive/19oz_jjjAS3rFffx3uNZCwzFP_Gy3AF3s#scrollTo=bw35MisP_nit
 
 SVM
     https://www.kaggle.com/code/ksarvakar/support-vector-machines-predicting-heart-disease
@@ -75,27 +76,29 @@ KNN
 
 
     =====================================
-Certification Courses: 
-    https://www.kaggle.com/learn/pandas
-    https://www.kaggle.com/code/sanikamal/data-visualization-using-matplotlib/notebook
-    https://www.kaggle.com/code/saurav9786/matplot-tutorial-for-everyone/notebook
-    https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners/notebook
-    https://www.kaggle.com/learn/data-visualization
+Certification Courses:
+ 
+    1. https://www.kaggle.com/learn/pandas
+    2. https://www.kaggle.com/code/sanikamal/data-visualization-using-matplotlib/notebook
+    3. https://www.kaggle.com/code/saurav9786/matplot-tutorial-for-everyone/notebook
+    4. https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners/notebook
+    5. https://www.kaggle.com/learn/data-visualization
     ====================================
-    https://www.kaggle.com/learn/data-cleaning
-    https://www.kaggle.com/code/residentmario/creating-reading-and-writing
+    6. https://www.kaggle.com/learn/data-cleaning
+    7. https://www.kaggle.com/code/residentmario/creating-reading-and-writing
     =====================================
-    https://www.javatpoint.com/data-preprocessing-machine-learning
+    8. https://www.javatpoint.com/data-preprocessing-machine-learning
     =====================================    
-    https://www.w3schools.com/python/pandas/default.asp
-    https://www.w3schools.com/python/matplotlib_intro.asp
-    https://www.w3schools.com/python/scipy/scipy_getting_started.php
+    9. https://www.w3schools.com/python/pandas/default.asp
+    10. https://www.w3schools.com/python/matplotlib_intro.asp
+    11. https://www.w3schools.com/python/scipy/scipy_getting_started.php
     =====================================
 Cognitive Class Certificate Course
-                https://apps.cognitiveclass.ai/learning/course/course-v1:BigDataUniversity+DS0101EN+v1/home
-                https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+PY0101EN+v3/progress
-                https://apps.cognitiveclass.ai/learning/course/course-v1:CognitiveClass+DV0101EN+v2
-                https://cognitiveclass.ai/learn/data-science-with-python
+
+    12. https://apps.cognitiveclass.ai/learning/course/course-v1:BigDataUniversity+DS0101EN+v1/home
+    13. https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+PY0101EN+v3/progress
+    14. https://apps.cognitiveclass.ai/learning/course/course-v1:CognitiveClass+DV0101EN+v2
+    15. https://cognitiveclass.ai/learn/data-science-with-python
     =====================================
 
 
