@@ -1,7 +1,7 @@
 # DSML-2023
 
 
-Material: 
+##Material: 
 ================================
     1. Linear Regression 
     https://docs.google.com/presentation/d/1qWPLHYr99Xkm3uU5s9bst30L0kKU3PHj/edit#slide=id.p100
@@ -13,39 +13,39 @@ Material:
     https://colab.research.google.com/drive/19r96EfLFmIAPya7ZTNaYJ6-qSDvRBST4#scrollTo=j6tyRYL7yJ4Q
 ==================================
 
-SVM:
+###SVM:
 
     1. L-SVM- https://github.com/ksarvakar/DSML-2023/blob/main/LSVM.pdf
     2. NL-SVM- https://github.com/ksarvakar/DSML-2023/blob/main/NL-SVM.pdf
 
-Material: 
+##Material: 
 
-Apriori Algorithm:
+###Apriori Algorithm:
 =====
     1. PPT- https://docs.google.com/presentation/d/1hwZnXLxUVOoVAK1PB22h70XQab36KTZa/edit#slide=id.p53
     2. Online Apriori- https://athena.ecs.csus.edu/~mei/associationcw/Algorithms/Apriori.html
 =====
 
-LIFT METHOD:
+###LIFT METHOD:
     
     1. https://www.youtube.com/watch?v=9_kT7GaQwAc
 ================================================
 
-Assignment Links:
+###Assignment Links:
 
-    Assignment -1.1  label encoding, One Hot Encoder 
+    ###Assignment -1.1  label encoding, One Hot Encoder 
     https://docs.google.com/document/d/1tkyWY7QhVFYPAEBnxd31pXYZJeo6pnBW/edit
     
-    Assignment-2 Data Pre-processing 
+    ###Assignment-2 Data Pre-processing 
     https://docs.google.com/document/d/1Xay7Gv7XeMq0MwsvIwpOL2tWf8Pfy0Xf/edit
     
-    Assignment 3 Normalization
+    ###Assignment 3 Normalization
     https://docs.google.com/document/d/15XWx3v5kgI_18cfKVJZc7UzowotK-gSm/edit
     
-    Assignment - 4 Association rule
+    ###Assignment - 4 Association rule
     https://docs.google.com/document/d/19fTivylDJcJRAYUrds1jv0txxT69AFbA/edit
     
-    SVM: 
+    ###SVM: 
     https://docs.google.com/document/d/1iJETP5U2ggAELFtPg1GB32xVISbuDoKkbBBC1ceSPcc/edit
 
 
