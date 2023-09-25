@@ -70,6 +70,9 @@ Case Study:
 
 Practical: 
 
+**Index-**
+**Practical-1: ** Aim: To build and fine-tune a Support Vector Machine (SVM) model for predicting heart disease with an accuracy of at least 85% using the dataset provided in the Kaggle notebook.
+
 Market Basket Analysis (Apriori) in Python
 
    1. https://www.kaggle.com/code/ksarvakar/notebook04ddbfaaa6
