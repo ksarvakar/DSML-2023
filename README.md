@@ -70,6 +70,9 @@ Market Basket Analysis (Apriori) in Python
 SVM
     https://www.kaggle.com/code/ksarvakar/support-vector-machines-predicting-heart-disease
 
+KNN
+    https://www.kaggle.com/code/ksarvakar/predicting-heart-disease-with-knn-and-svm
+
 
     =====================================
 Certification Courses: 
