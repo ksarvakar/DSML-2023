@@ -12,7 +12,7 @@ Material:
     3. POLY  Regression
     https://colab.research.google.com/drive/19r96EfLFmIAPya7ZTNaYJ6-qSDvRBST4#scrollTo=j6tyRYL7yJ4Q
 ==================================
-SVM
+SVM:
 
 https://github.com/ksarvakar/DSML-2023/blob/main/LSVM.pdf
 
@@ -24,12 +24,12 @@ Apriori Algorithm:
     2. Online Apriori- https://athena.ecs.csus.edu/~mei/associationcw/Algorithms/Apriori.html
 =====
 
-LIFT METHOD
+LIFT METHOD:
     
     1. https://www.youtube.com/watch?v=9_kT7GaQwAc
 ================================================
 
-Assignment Links
+Assignment Links:
 
     Assignment -1.1  label encoding, One Hot Encoder 
     https://docs.google.com/document/d/1tkyWY7QhVFYPAEBnxd31pXYZJeo6pnBW/edit
