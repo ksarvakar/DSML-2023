@@ -16,11 +16,16 @@ SVM
 
 https://github.com/ksarvakar/DSML-2023/blob/main/LSVM.pdf
 
-Material: PPT- https://docs.google.com/presentation/d/1hwZnXLxUVOoVAK1PB22h70XQab36KTZa/edit#slide=id.p53
-Online Apriori- https://athena.ecs.csus.edu/~mei/associationcw/Algorithms/Apriori.html
+Material: 
 
+Apriori Algorithm:
+=====
+    1. PPT- https://docs.google.com/presentation/d/1hwZnXLxUVOoVAK1PB22h70XQab36KTZa/edit#slide=id.p53
+    2. Online Apriori- https://athena.ecs.csus.edu/~mei/associationcw/Algorithms/Apriori.html
+=====
 LIFT METHOD
-https://www.youtube.com/watch?v=9_kT7GaQwAc
+    
+    1. https://www.youtube.com/watch?v=9_kT7GaQwAc
 ================================================
 
 Assignment Links
