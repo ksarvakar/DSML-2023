@@ -12,9 +12,9 @@ Material:
     3. POLY  Regression
     https://colab.research.google.com/drive/19r96EfLFmIAPya7ZTNaYJ6-qSDvRBST4#scrollTo=j6tyRYL7yJ4Q
 ==================================
-SVM:
 
-https://github.com/ksarvakar/DSML-2023/blob/main/LSVM.pdf
+SVM:
+    1. https://github.com/ksarvakar/DSML-2023/blob/main/LSVM.pdf
 
 Material: 
 
