@@ -112,4 +112,5 @@ Cognitive Class Certificate Course
     15. https://cognitiveclass.ai/learn/data-science-with-python
     =====================================
 
-
+Google CO-LAB Files:
+    1.https://drive.google.com/drive/folders/12pwViRv_088P2MT-LZm1q-wGyeDToYyU
