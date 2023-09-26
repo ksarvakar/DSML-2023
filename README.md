@@ -18,6 +18,9 @@
     1. L-SVM- https://github.com/ksarvakar/DSML-2023/blob/main/LSVM.pdf
     2. NL-SVM- https://github.com/ksarvakar/DSML-2023/blob/main/NL-SVM.pdf
 
+KNN- MATERIAL
+    https://docs.google.com/document/d/1xhUJ9mPvi8HWieQITMp_hXGbPWNPJqAIOvX3KuIqRo0/edit?hgd=1
+
 ##Material: 
 
 ###Apriori Algorithm:
