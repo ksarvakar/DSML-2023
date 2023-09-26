@@ -32,6 +32,14 @@ KNN- MATERIAL
 ###LIFT METHOD:
     
     1. https://www.youtube.com/watch?v=9_kT7GaQwAc
+
+
+==========
+K-MEANS
+
+    **Code:** https://colab.research.google.com/drive/1AnBNdC0QBUzKsyQed45tqbJLATx0hR1P#scrollTo=WW--Xpml6R1s
+    **dataset:** https://www.kaggle.com/datasets/ksarvakar/mall-customers
+    **Video:** https://www.youtube.com/watch?v=Kz1kV1zbJ0Q&list=PLLX0OlcGRiD6rAbO6cTwaxNzDqQoZ427-&index=13    
 ================================================
 
 ###Assignment Links:
