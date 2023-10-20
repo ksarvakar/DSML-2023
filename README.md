@@ -100,6 +100,19 @@ KNN
 
 
     =====================================
+
+
+Jiawei Han, Micheline Kamber and Jian Pei
+
+Data Mining: Concepts and Techniques, 3rd ed.
+
+The Morgan Kaufmann Series in Data Management Systems
+Morgan Kaufmann Publishers, July 2011. ISBN 978-0123814791
+
+Slides in PowerPoint
+https://hanj.cs.illinois.edu/bk3/bk3_slidesindex.htm
+
+
 Certification Courses:
  
     1. https://www.kaggle.com/learn/pandas
