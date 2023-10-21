@@ -43,6 +43,9 @@ K-MEANS
     **dataset:** https://www.kaggle.com/datasets/ksarvakar/mall-customers
     **Video:** https://www.youtube.com/watch?v=Kz1kV1zbJ0Q&list=PLLX0OlcGRiD6rAbO6cTwaxNzDqQoZ427-&index=13    
 ================================================
+PCA- LDA - MATERIAL 
+
+https://drive.google.com/drive/u/0/folders/1sxbd_hliEdiG2iIt3GYLWDn7XlYweSc-
 
 ###Assignment Links:
 
