@@ -1,0 +1,16 @@
+Data Description
+NYC Reported Dog Bites to determine if the biting dog is healthy ten days after the person was bitten in order to avoid having the person bitten receive unnecessary rabies shots. https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg
+UniqueID: Unique dog bite case identifier
+DateOfBite: Date bitten
+Species: Animal type
+Breed: Breed type
+Age: Dog's age at time of bite; numbers with 'M' indicate months
+Gender: Sex of dog; M=Male, F=Female, U=Unknown
+SpayNeuter: Surgical removal of dog's reproductive organs; True=Spayed or Neutered, False=Unknown/Not spayed or neutered
+Borough: Dog bite borough; other indicates the the bite took place outside New York City
+ZipCode: Dog bite zip code
+
+
+https://www.kaggle.com/datasets/michaelbryantds/dog-bite-incidents/code
+https://www.kaggle.com/ksarvakar/eda-dog-bite/edit
+EDA for Dog Bite Incidents
