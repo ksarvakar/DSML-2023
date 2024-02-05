@@ -1,5 +1,9 @@
 # DSML-2023
-
+<br>
+**Pre- Processing** <br>
+<hr>
+Simple Imputer <br>
+https://colab.research.google.com/drive/1ClkeUzwMF6gYFNOmWqVE8d3VObv0rvxw#scrollTo=7_hxHGmiDUf8
 
 ##Material: 
 ================================
