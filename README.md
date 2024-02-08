@@ -4,7 +4,9 @@
 <hr>
 Simple Imputer <br>
 https://colab.research.google.com/drive/1ClkeUzwMF6gYFNOmWqVE8d3VObv0rvxw#scrollTo=7_hxHGmiDUf8
-
+<br>
+https://drive.google.com/file/d/1Y19UQb8KIrzrpaXUrjdP_KC5l_AxXwaq/view?usp=drive_link, https://drive.google.com/file/d/10pqCe87E6ZGiZl7uBDVihz2YgEzlTVk8/view?usp=drive_link, https://drive.google.com/file/d/1HWDwlNwYmXG-WV89igxF_lzDgkhMFYwd/view?usp=drive_link, https://drive.google.com/file/d/1o0UqVw3-On-E-zIXT2I79OmMlId43B1U/view?usp=drive_link, https://drive.google.com/file/d/1-1DVQq9LI1f-vI5KmkcDnkS3SxVRHlWt/view?usp=drive_link, https://drive.google.com/file/d/1kEqWeUy8LnEA8FEL1gTdXs-fgD831xil/view?usp=drive_link, https://drive.google.com/file/d/1J4XI1CKasjNbXRHmoUzjQOqUNNbeNNDg/view?usp=drive_link, https://drive.google.com/file/d/1EPBHXWLBeLCZWY710PKwW3w2IGzkjxXo/view?usp=drive_link
+<br>
 ##Material: 
 ================================
     1. Linear Regression 
