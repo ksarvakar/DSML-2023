@@ -48,6 +48,11 @@ K-MEANS
     **Code:** https://colab.research.google.com/drive/1AnBNdC0QBUzKsyQed45tqbJLATx0hR1P#scrollTo=WW--Xpml6R1s
     **dataset:** https://www.kaggle.com/datasets/ksarvakar/mall-customers
     **Video:** https://www.youtube.com/watch?v=Kz1kV1zbJ0Q&list=PLLX0OlcGRiD6rAbO6cTwaxNzDqQoZ427-&index=13    
+
++++++++++++++++++++
+<BR>DBSCAN Clustering Algorithm Solved Numerical Example in Machine Learning Data Mining Mahesh Huddar <BR>
+
+<BR>https://www.youtube.com/watch?v=-p354tQsKrs <BR>
 ================================================
 PCA- LDA - MATERIAL 
 
