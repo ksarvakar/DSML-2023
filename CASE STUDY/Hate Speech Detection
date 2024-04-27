@@ -14,4 +14,25 @@ XGBOOST = 0.93
 model_tfidf = 0.93
 ========================
 Hate Speech - BERT+CNN and BERT+MLP in Tensorflow
+https://www.kaggle.com/code/giovanimachado/hate-speech-bert-cnn-and-bert-mlp-in-tensorflow#Results-for-CNN
 
+=======
+https://www.kaggle.com/code/mostafaabdo/hate-speech-classification
+
+model training
+clf = DecisionTreeClassifier(random_state=42)
+clf.fit(x_train,y_train)
+
+DecisionTreeClassifier
+validation score : 0.9291
+Test Accuracy: 0.9227
+
+lodistic regrission
+Test accuracy: 93.89%
+
+==================================================
+
+Image  
+https://www.kaggle.com/code/killa92/hate-speech-image-visualization-classification/notebook
+
+accuracy = 0.45
