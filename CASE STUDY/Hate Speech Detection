@@ -1,0 +1,17 @@
+Multi-modal Hate Speech Detection using Machine Learning
+
+https://www.kaggle.com/code/gabrielbchacon/nlp-model-to-predict-hate-speech
+
+Random Forest Accuracy:  0.9384708493040145
+Linear Regression Accuracy:  0.940891668347791
+Decision Tree Accuracy:  0.9170869477506557
+Naive Bayes Accuracy:  0.43534395803913656
+============================================
+https://www.kaggle.com/code/jatingoyal123/hate-offensive-language
+model2 = Sequential()
+accuracy: 0.9873
+XGBOOST = 0.93
+model_tfidf = 0.93
+========================
+Hate Speech - BERT+CNN and BERT+MLP in Tensorflow
+
